@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+Projeto realizado em Bootstrap 4
+
 # layout-whatsapp
-=======
-# layoutwhaysapp 
->>>>>>> 265e0fb... first commit
+
