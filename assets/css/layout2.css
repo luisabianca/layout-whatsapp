@@ -1,0 +1,92 @@
+header, footer {
+    background-color: #eeeeee;
+    padding: 5px;
+    min-height: 60px;
+}
+
+header img, .list-group img {
+    height: 50px;
+    margin-right: 15px;
+    border-radius: 100%;
+}
+
+header img {
+    margin-left: 16px;
+}
+
+main {
+    background-color: #e5ddd5;
+    min-height: calc(100vh - 121px);
+}
+
+header {
+    border-bottom: #dbdbdb 1px solid;
+}
+
+h6 {
+    margin: 0;
+}
+
+.timeago {
+    color: #999;
+    font-size: .8em;
+}
+
+nav {
+    height: 40px;
+    background-color: #f8f8f8;
+    position: relative;
+}
+
+#navright {
+    border-left: #dbdbdb 1px solid;
+}
+
+#pesqbar {
+    border-radius: 16px;
+    width: 93%;
+    margin-left: 15px;
+    text-align: center;
+    font-weight: 600;
+    font-size: .8em;
+    height: 30px;
+    position: absolute;
+    top: 5px;
+}
+
+i {
+    color: #999;
+    padding-right: 35px;
+}
+
+.iconszap {
+    width: 18px;
+    margin: 0;
+    margin-right: 25px;
+}
+
+footer img {
+    width: 22px;
+}
+
+.form-control {
+    width: 86%;
+    height: 45px;
+    border-radius: 16px;
+}
+
+#lido {
+    width: 18px;
+    height: 15px;
+    margin-right: 0;
+}
+
+.badge-success {
+    background-color: #09d261;
+}
+
+@media screen and (max-width:575px) {
+    #chatopen {
+        visibility: hidden;
+    }
+}
