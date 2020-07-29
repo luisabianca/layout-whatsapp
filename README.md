@@ -14,3 +14,4 @@ Neste repositório está o meu primeiro projeto desenvolvido em Bootstrap 4. A i
 
 ## 🖼️ Resultado
 
+![](https://github.com/luisabianca/layout-whatsapp/blob/gh-pages/assets/images/projeto01.pn) ![]https://github.com/luisabianca/layout-whatsapp/blob/gh-pages/assets/images/projeto02.pn)
